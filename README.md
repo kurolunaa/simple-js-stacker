@@ -7,7 +7,7 @@ Legally distinct block stacker written in JS, with a leaderboard that has data p
 <!-- # Screenshots/Demo Video -->
 
 # Live Demo/Install & Run
-You can play the game from this GitHub pages link here: [link]
+You can play the game from this GitHub pages link [here](https://kurolunaa.github.io/simple-js-stacker/).
 
 Alternatively, you can clone the repo and run it using Node.js with the following commands: `npm i && npm run dev` or `npx http-server`
 
