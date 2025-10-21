@@ -2,7 +2,9 @@
 Legally distinct block stacker written in JS, with a leaderboard that has data persistence both on device and to a cloud JSON file.
 
 # Features 
-- **TRACK**: This will be a **game/entertainment** style of approach to a "thick-client" Single-Page Application (SPA).
+- A simple implementation of a classic block-stacking arcade game written in JS using Phaser as its underlying framework.
+- Local and cloud storage persistance in the form of a local and cloud leaderboard, where the cloud leaderboard only stores high scores.
+- Local storage stores both user scores, and occasionally refreshes the cloud leaderboard if there are new scores.
 
 <!-- # Screenshots/Demo Video -->
 
@@ -30,5 +32,6 @@ code goes here but there is no code yet
 
 <!-- # License & Credits -->
 
-<!-- # Developer Docs -->
-
+<!-- # Developer Docs
+Project board for this repo can be found [here](project board link)
+ -->
