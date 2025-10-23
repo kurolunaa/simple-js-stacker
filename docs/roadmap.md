@@ -8,14 +8,14 @@
 - **Project Board** created with **~8-12 Sprint 2 issues** (titles + brief AC + S/M + assignee) and columns: *Backlog, Sprint 2, Sprint 3, Done*. Link the board in the readme.md.
 
 # MVP (Sprint 2)
-**Goal 1**: Set up the repo, required programs, and dependencies needed to make the project possible.
-**Goal 2**: Set up the basics of the game (board, pieces).
-**Goal 3**: Get the pieces to spawn one at a time
-**Goal 4**: Get the pieces to fall, and when they hit the ground "set" them in place.
-**Goal 5**: Get the piece to be able to rotate.
-**Goal 6**: When a row is completely filled out, clear the row and shift everything down.
-**Goal 7**: When a piece touches the very top of the board, a game over should occur and restart the game.
-**Goal 8**: Record score into a data structure of some kind, ordered from highest to lowest score.
+- **Goal 1**: Set up the repo, required programs, and dependencies needed to make the project possible.
+- **Goal 2**: Set up the basics of the game (board, pieces).
+- **Goal 3**: Get the pieces to spawn one at a time.
+- **Goal 4**: Get the pieces to fall, and when they hit the ground "set" them in place.
+- **Goal 5**: Get the piece to be able to rotate.
+- **Goal 6**: When a row is completely filled out, clear the row and shift everything down.
+- **Goal 7**: When a piece touches the very top of the board, a game over should occur and restart the game.
+- **Goal 8**: Record score into a data structure of some kind, ordered from highest to lowest score.
 
 # Full Version (Sprint 3)
 - Add "Hold Piece" feature
